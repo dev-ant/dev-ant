@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h4> 💻 Tech Stack 💻 </h4>
   <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
@@ -11,14 +11,14 @@
   <br/><br/>
 </div>
 
-<div align="center">
+<div>
   <h4> 🛠 Tools 🛠 </h4>
   <img src="https://img.shields.io/badge/IntelliJ-222222?style=flat&logo=IntelliJ&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white">
   <br/><br/>
 </div>
 
-<div align="center">
+<div>
   <h4> 📫 contact 📫 </h4>
   <a href="https://www.instagram.com/san0._.hyun/" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://codingeveryday.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white"/></a>
@@ -31,7 +31,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=njsharry)](https://solved.ac/njsharry/)
 -->
 
-<div align="center">
+<div>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNter-developer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

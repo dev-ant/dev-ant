@@ -20,8 +20,8 @@
 
 <div>
   <h4> 📫 contact 📫 </h4>
+  <a href="https://velog.io/@nter-developer/posts" target="_blank"><img src="https://img.shields.io/badge/velog-black?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.instagram.com/san0._.hyun/" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://codingeveryday.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/njsharry32@gmail.com-black?style=flat-square&logo=gmail&logoColor=white"/></a>
   <!-- LinkedIn Badge -->
 <hr>

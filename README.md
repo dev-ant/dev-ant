@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=JetpackCompose&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-5A162?style=flat&logo=JUnit5&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">

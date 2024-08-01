@@ -1,4 +1,9 @@
 <div>
+  <h4>App on PlayStore<h4>
+     <a href="https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US" target="_blank">SQLI</a>
+</div>
+
+<div>
   <h4> 💻 Tech Stack 💻 </h4>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat&logo=OpenJDK&logoColor=white">

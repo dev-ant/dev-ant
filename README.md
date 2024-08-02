@@ -1,6 +1,6 @@
 <div>
-  <h4>App on PlayStore<h4>
-     <a href="https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US" target="_blank">SQLI</a>
+  <h4> ▶️ App on PlayStore 🔁 <h4>
+     <h5><a href="https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US" target="_blank">SQLI</a></h5> 
 </div>
 
 <div>

@@ -1,7 +1,8 @@
-<div>
-  <h4> ▶️ App on PlayStore 🔁 <h4>
-     <h5><a href="https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US" target="_blank">SQLI</a></h5> 
-</div>
+<h4> 🚀 App on PlayStore 🚀 </h4>
+
+**SQLI** | SQLite interpreter for android. Simple and powerful | [PlayStore](https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US) | [Tech Blog](https://velog.io/@nter-developer/series/SQLI) | [Notion](https://www.notion.so/561abc1a3bf6421aaaa2d88c04318b29?v=343e3eaf58234761866970b5be9b59f6)
+
+</br>
 
 <div>
   <h4> 💻 Tech Stack 💻 </h4>

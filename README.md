@@ -5,6 +5,14 @@
 </br>
 
 <div>
+  <h4> 💻 Dev History 💻 </h4>
+  <p> 2024.09 ~ | Promptechnology </p> 
+  <p> 2018.03 ~ 2024.02 | Kyonggi University </p> 
+  <p> 2018.03 ~ 2024.02 | Kyonggi University </p> 
+  <br/><br/>
+</div>
+
+<div>
   <h4> 💻 Tech Stack 💻 </h4>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat&logo=OpenJDK&logoColor=white">

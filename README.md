@@ -4,10 +4,10 @@
 
 </br>
 
+
 <div>
   <h4> 💻 Dev History 💻 </h4>
-  <p> 2024.09 ~ | Promptechnology </p> 
-  <p> 2018.03 ~ 2024.02 | Kyonggi University </p> 
+  <h1> 2024.09 ~ | (주)프람트테크놀로지 </h1> 
   <p> 2018.03 ~ 2024.02 | Kyonggi University </p> 
   <br/><br/>
 </div>

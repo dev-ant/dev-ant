@@ -16,23 +16,6 @@ To live up to these values, I continuously study new technologies and focus on i
 
 </br>
 
-### 💼 Career
-
-+ [2024.09 ~ ] <a href="https://www.promptech.co.kr/" target="_blank"><b>Prompt Technology</b></a> Backend Developer
-  - Main Language: Java
-  - Framework/Library: Spring Framework, MyBatis, Data Jpa, Redis
-  - Data: MariaDB, Oracle
-  - Test: JUnit5, Mockito, K6
-+ [2018.03 ~ 2024.02] 경기대학교 컴퓨터공학부
-  
-</br>
-
-### 🚀 App on PlayStore
-
-* **SQLI** | SQLite interpreter for android. Simple and powerful | [PlayStore](https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US) | [Tech Blog](https://velog.io/@nter-developer/series/SQLI) | [Notion](https://www.notion.so/561abc1a3bf6421aaaa2d88c04318b29?v=343e3eaf58234761866970b5be9b59f6)
-
-<br>
-
 ### 💻 Main Tech Stack 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -58,6 +41,23 @@ To live up to these values, I continuously study new technologies and focus on i
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white">
   <br/><br/>
 </div>
+
+### 💼 Career
+
++ [2024.09 ~ ] <a href="https://www.promptech.co.kr/" target="_blank"><b>Prompt Technology</b></a> Backend Developer
+  - Main Language: Java
+  - Framework/Library: Spring Framework, MyBatis, Data Jpa, Redis
+  - Data: MariaDB, Oracle
+  - Test: JUnit5, Mockito, K6
++ [2018.03 ~ 2024.02] 경기대학교 컴퓨터공학부
+  
+</br>
+
+### 🚀 App on PlayStore
+
+* **SQLI** | SQLite interpreter for android. Simple and powerful | [PlayStore](https://play.google.com/store/apps/details?id=com.csapp.sqli&hl=en&gl=US) | [Tech Blog](https://velog.io/@nter-developer/series/SQLI) | [Notion](https://www.notion.so/561abc1a3bf6421aaaa2d88c04318b29?v=343e3eaf58234761866970b5be9b59f6)
+
+<br>
 
 
 ### 📫 contact</h4>

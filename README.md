@@ -47,8 +47,6 @@ To live up to these values, I continuously study new technologies and focus on i
 + [2024.09 ~ ] <a href="https://www.promptech.co.kr/" target="_blank"><b>Prompt Technology</b></a> Backend Developer
   - Main Language: Java
   - Framework/Library: Spring Framework, MyBatis, Data Jpa, Redis
-  - Data: MariaDB, Oracle
-  - Test: JUnit5, Mockito, K6
 + [2018.03 ~ 2024.02] 경기대학교 컴퓨터공학부
   
 </br>

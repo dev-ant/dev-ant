@@ -1,18 +1,9 @@
 
 ### 🚀 About Me
 안녕하세요! 백엔드 개발자 이상현입니다.  
-Java와 Spring 기반의 서버 개발을 주력으로 하고 있으며, 데이터 처리 및 자동화 작업에서는 Python(Pandas)을, 안드로이드 개발에서는 Kotlin을 활용합니다.
+Java와 Spring 기반의 서버 개발을 주력으로 하고 있으며, 데이터 처리 및 자동화 작업에서는 Python(Pandas)을 활용합니다.
 
-저는 **꾸준함**과 **문제 해결력**이 개발자에게 가장 중요한 덕목이라고 생각합니다.  
-이에 따라 새로운 기술을 학습하고, 주기적인 프로젝트 개선과 코드 리팩토링을 통해 더욱 견고하고 유지보수하기 쉬운 코드를 만들기 위해 노력하고 있습니다.
-
-<br/>
-
-Hi, I'm Sanghyun Lee, a backend developer specializing in Java and Spring-based development.  
-I mainly work with Java and Spring, while also using Python (Pandas) for data automation and Kotlin for Android development.
-
-I believe that **consistency** and **problem-solving skills** are two of the most essential qualities in a developer.  
-To live up to these values, I continuously study new technologies and focus on improving project quality through regular refactoring and enhancement.
+저는 **문제 해결력**과 **소통 능력**이 개발자에게 가장 중요한 덕목이라고 생각합니다.  
 
 </br>
 
